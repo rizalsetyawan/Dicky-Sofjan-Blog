@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "category": "journal",
+    "title": "Islamic Environmentalism and the Ethics of Conservation in Southeast Asia",
+    "journal": "Journal of Faith and International Affairs",
+    "volume": "19",
+    "issue": "3",
+    "pages": "1–14",
+    "year": 2021,
+    "abstract": "Explores the theological and ethical frameworks within Islamic tradition that support environmental stewardship and conservation, with case studies from Southeast Asia.",
+    "doi": null,
+    "tags": [
+      "Islamic ethics",
+      "environment",
+      "Southeast Asia"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "journal",
+    "title": "Religious Plurality and Democratic Governance: The Indonesian Case",
+    "journal": "Review of Faith and International Affairs",
+    "volume": "17",
+    "issue": "2",
+    "pages": "15–28",
+    "year": 2019,
+    "abstract": "Analyses the relationship between Islamic pluralism and democratic governance in post-Reformasi Indonesia, drawing on field research in Java and Sumatra.",
+    "doi": null,
+    "tags": [
+      "pluralism",
+      "democracy",
+      "Indonesia"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "journal",
+    "title": "Faith at COP: Religious Communities and Climate Diplomacy",
+    "journal": "Journal of Middle Eastern and North African Studies",
+    "volume": "14",
+    "issue": "1",
+    "pages": "44–59",
+    "year": 2023,
+    "abstract": "Examines the growing role of faith communities in international climate negotiations, focusing on the Faith Pavilion at UNFCCC-COP meetings.",
+    "doi": null,
+    "tags": [
+      "climate",
+      "religion",
+      "diplomacy"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "book",
+    "title": "Religion, Politics and Governance in Contemporary Indonesia",
+    "publisher": "Yayasan Obor Indonesia / Areca Books",
+    "year": 2016,
+    "abstract": "A comprehensive study of the interplay between Islamic political movements, governance structures, and civil society in democratic Indonesia.",
+    "tags": [
+      "Indonesia",
+      "politics",
+      "Islam",
+      "governance"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "book",
+    "title": "Interfaith Ethics: A Reader for the Global Context",
+    "publisher": "Globethics Publications, Geneva",
+    "year": 2020,
+    "abstract": "An interdisciplinary reader bringing together perspectives from major world religions on shared ethical challenges in a globalised world.",
+    "tags": [
+      "interfaith",
+      "ethics",
+      "global"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "chapter",
+    "title": "Islam and Human Rights in the ASEAN Context",
+    "bookTitle": "Human Rights and Religion in Southeast Asia",
+    "publisher": "Mizan Press",
+    "year": 2018,
+    "abstract": "Examines the contested terrain between human rights frameworks and Islamic jurisprudence in ASEAN member states.",
+    "tags": [
+      "human rights",
+      "Islam",
+      "ASEAN"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "globethics",
+    "title": "Ethics and the Environment: An Islamic Perspective",
+    "publisher": "Globethics Publications",
+    "year": 2019,
+    "abstract": "A contribution to the Globethics series exploring Islamic ethical principles relevant to environmental sustainability and ecological responsibility.",
+    "tags": [
+      "Islamic ethics",
+      "environment",
+      "Globethics"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "media",
+    "title": "Faith Communities Must Lead on Climate",
+    "outlet": "The Diplomat",
+    "date": "December 2023",
+    "description": "Op-ed following COP28 arguing that religious communities must take a more assertive role in climate advocacy and ecological stewardship.",
+    "url": "https://thediplomat.com",
+    "tags": [
+      "climate",
+      "faith",
+      "COP28"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "media",
+    "title": "Indonesia's Moderate Islam is a Global Asset",
+    "outlet": "Forbes Asia",
+    "date": "August 2019",
+    "description": "Commentary on Indonesia's tradition of Islamic moderation and its potential role in addressing global religious extremism.",
+    "url": null,
+    "tags": [
+      "Indonesia",
+      "Islam",
+      "moderation"
+    ]
+  }
+]

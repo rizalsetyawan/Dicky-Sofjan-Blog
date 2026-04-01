@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "caption": "Graduate seminar on Inter-Religious Studies",
+    "location": "Universitas Gadjah Mada, Yogyakarta",
+    "date": "2023",
+    "category": "academia",
+    "tags": [
+      "teaching",
+      "ugm",
+      "graduate"
+    ],
+    "src": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=400&q=75"
+  },
+  {
+    "id": 2,
+    "caption": "UNFCCC COP28 Faith Pavilion presentation",
+    "location": "Dubai, UAE",
+    "date": "2023",
+    "category": "conference",
+    "tags": [
+      "climate",
+      "cop28",
+      "keynote"
+    ],
+    "src": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400&q=75"
+  },
+  {
+    "id": 3,
+    "caption": "Nglanggeran volcanic landscape",
+    "location": "Gunung Kidul, Yogyakarta",
+    "date": "2022",
+    "category": "ecoproject",
+    "tags": [
+      "nglanggeran",
+      "conservation"
+    ],
+    "src": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=400&q=75"
+  },
+  {
+    "id": 4,
+    "caption": "Globethics Board of Directors meeting",
+    "location": "Geneva, Switzerland",
+    "date": "2022",
+    "category": "conference",
+    "tags": [
+      "globethics",
+      "board"
+    ],
+    "src": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=400&q=75"
+  },
+  {
+    "id": 5,
+    "caption": "Community engagement at Nglanggeran village",
+    "location": "Gunung Kidul, Yogyakarta",
+    "date": "2022",
+    "category": "ecoproject",
+    "tags": [
+      "community",
+      "nglanggeran"
+    ],
+    "src": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=400&q=75"
+  },
+  {
+    "id": 6,
+    "caption": "G20 Interfaith Forum panel discussion",
+    "location": "Bali, Indonesia",
+    "date": "2022",
+    "category": "conference",
+    "tags": [
+      "g20",
+      "interfaith"
+    ],
+    "src": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=400&q=75"
+  },
+  {
+    "id": 7,
+    "caption": "Reforestation project launch",
+    "location": "Nglanggeran, Gunung Kidul",
+    "date": "2022",
+    "category": "ecoproject",
+    "tags": [
+      "reforestation",
+      "ecology"
+    ],
+    "src": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&q=75"
+  },
+  {
+    "id": 8,
+    "caption": "EU-Indonesia Forum on Democracy and Islam",
+    "location": "Brussels, Belgium",
+    "date": "2021",
+    "category": "conference",
+    "tags": [
+      "eu",
+      "democracy",
+      "islam"
+    ],
+    "src": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=400&q=75"
+  },
+  {
+    "id": 9,
+    "caption": "UGM Faculty of Graduate Studies reception",
+    "location": "Universitas Gadjah Mada, Yogyakarta",
+    "date": "2021",
+    "category": "academia",
+    "tags": [
+      "ugm",
+      "faculty",
+      "academic"
+    ],
+    "src": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=75"
+  },
+  {
+    "id": 10,
+    "caption": "Interfaith dialogue workshop",
+    "location": "Yogyakarta, Indonesia",
+    "date": "2021",
+    "category": "academia",
+    "tags": [
+      "interfaith",
+      "dialogue",
+      "workshop"
+    ],
+    "src": "https://images.unsplash.com/photo-1560523159-4a9692d222ef?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1560523159-4a9692d222ef?w=400&q=75"
+  },
+  {
+    "id": 11,
+    "caption": "OHCHR Expert Consultation on religion and human rights",
+    "location": "Geneva, Switzerland",
+    "date": "2020",
+    "category": "conference",
+    "tags": [
+      "ohchr",
+      "human rights",
+      "un"
+    ],
+    "src": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=400&q=75"
+  },
+  {
+    "id": 12,
+    "caption": "Nglanggeran morning mist at sunrise",
+    "location": "Gunung Kidul, Yogyakarta",
+    "date": "2021",
+    "category": "ecoproject",
+    "tags": [
+      "nature",
+      "landscape"
+    ],
+    "src": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80",
+    "thumb": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=400&q=75"
+  }
+]

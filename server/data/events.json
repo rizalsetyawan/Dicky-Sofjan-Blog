@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "UNFCCC Conference of the Parties (COP28)",
+    "platform": "UNFCCC-COP",
+    "location": "Dubai, UAE",
+    "date": "December 2023",
+    "year": 2023,
+    "role": "Faith Pavilion Presenter",
+    "topic": "Islamic Foundations of Climate Ethics",
+    "description": "Presented Islamic environmental ethics frameworks at the official UNFCCC Faith Pavilion, drawing on Quranic concepts of stewardship (khalifa) and the prohibition of corruption (fasad).",
+    "tags": [
+      "climate",
+      "COP28",
+      "faith"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "G20 Interfaith Forum",
+    "platform": "G20 Interfaith Forum",
+    "location": "Bali, Indonesia",
+    "date": "September 2022",
+    "year": 2022,
+    "role": "Keynote Speaker",
+    "topic": "Religion, Sustainability and the G20 Agenda",
+    "description": "Delivered a keynote address connecting religious values with the G20's sustainable development priorities.",
+    "tags": [
+      "G20",
+      "sustainability",
+      "keynote"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "European Parliament Intergroup on Faith & Belief",
+    "platform": "EU Institutions",
+    "location": "Brussels, Belgium",
+    "date": "March 2021",
+    "year": 2021,
+    "role": "Invited Speaker",
+    "topic": "Islamic Pluralism and European Democratic Values",
+    "description": "Invited to address the European Parliament intergroup on the compatibility of Islamic pluralism with European democratic norms.",
+    "tags": [
+      "EU",
+      "Islam",
+      "democracy"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "OHCHR Expert Consultation on Freedom of Religion",
+    "platform": "OHCHR",
+    "location": "Geneva, Switzerland",
+    "date": "November 2020",
+    "year": 2020,
+    "role": "Expert Witness",
+    "topic": "Minority Religious Rights in ASEAN",
+    "description": "Provided expert testimony on minority religious rights protection mechanisms in ASEAN countries.",
+    "tags": [
+      "OHCHR",
+      "human rights",
+      "ASEAN"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "UNFCCC Conference of the Parties (COP27)",
+    "platform": "UNFCCC-COP",
+    "location": "Sharm el-Sheikh, Egypt",
+    "date": "November 2022",
+    "year": 2022,
+    "role": "Panel Speaker",
+    "topic": "Faith-based Environmental Action in the Global South",
+    "description": "Panelist on faith-based environmental action, presenting the Nglanggeran Eco-Project as a model of spiritually-grounded ecological restoration.",
+    "tags": [
+      "COP27",
+      "ecology",
+      "faith"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Carnegie Council for Ethics in International Affairs",
+    "platform": "Carnegie Council",
+    "location": "New York, USA",
+    "date": "April 2017",
+    "year": 2017,
+    "role": "Presenter",
+    "topic": "Religion and Ethics in Global Governance",
+    "description": "Presented research on the role of religious ethics in shaping international governance frameworks during a Carnegie Council visiting fellowship.",
+    "tags": [
+      "Carnegie",
+      "global governance",
+      "ethics"
+    ]
+  }
+]
